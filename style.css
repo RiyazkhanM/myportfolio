@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.homesection
+{
+        width: 100%;
+}
+.btncv
+{
+    background-color: black;
+    color: white;
+}
+#nav1
+{
+    background-color:gray;
+    padding: 10px;
+}
+.navbar-toggle
+{
+    transition: 2;
+}
+#intro{
+    padding: 20px;
+    margin-top: 200px;
+}
+.row{    
+    
+    padding: 0%;
+}
+.banner{
+    background-color: azure;
+    width: 100%;
+    background-image: url(media/land.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col
+{
+    color: color-mix(in hsl shorter hue, color percentage, color percentage);
+    padding: 200px;
+    margin-right: 700px;
+}
+.btncv
+{
+    border-style: groove;
+    padding: 30x;
+    
+}
+.aboutme
+{
+    background-color: white;
+}
+#mcd{
+    width: 50px;
+    height:50px;
+}
+#insta
+{
+    width: 30px;
+    height: 30px;
+    margin-left: 100px;
+}
+#form{
+    width:400px;
+    margin:20vh auto 0 auto;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    padding:30px;
+}
+
+h2{
+    text-align: center;
+    color:#792099;
+}
+  
+  /* form {
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  button[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #3e8e41;
+  } */
